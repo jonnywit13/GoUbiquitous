@@ -1,0 +1,10 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">sunshinewatchface</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_digital_name">My Digital</string>
+
+    <string name="high_temperature_string"><xliff:g id="high">%1$s</xliff:g>\u00B0</string>
+    <string name="low_temperature_string"><xliff:g id="high">%1$s</xliff:g>\u00B0</string>
+
+    <string name="image_desc">Weather Icon Image</string>
+</resources>
